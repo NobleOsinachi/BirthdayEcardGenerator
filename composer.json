@@ -1,0 +1,16 @@
+{
+    "name": "noble/birthday-ecard-generator",
+    "description": "An automatic ecard generator using PHP and GD",
+    "autoload": {
+        "psr-4": {
+            "Noble\\BirthdayPlatform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noble Osinachi",
+            "email": "nobleosinachi98@gmail.com"
+        }
+    ],
+    "require": {}
+}
