@@ -23,7 +23,7 @@ Requirements
 Installation
 ------------
 
-1.  Clone the repository to your local machine using the command `git clone https://github.com/[username]/BirthdayEcardGenerator.git`.
+1.  Clone the repository to your local machine using the command `git clone https://github.com/NobleOsinachi/BirthdayEcardGenerator.git`.
 2.  Copy the files to your web server.
 3.  Install ImageMagick on your server.
 4.  Update the `config.php` file with your email settings and other configuration details.
@@ -53,4 +53,4 @@ If you want to contribute to this project, feel free to submit a pull request or
 Credits
 -------
 
-This project was created by \[Your Name\]. Special thanks to \[Contributor Name\] for their contributions to the project.
+This project was created by \[Noble Osinachi\]. Special thanks to \[David & Joan\] for their contributions to the project.
