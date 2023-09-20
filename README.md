@@ -43,7 +43,7 @@ To use this system, simply upload two pictures of yourself to the `images` direc
 License
 -------
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 Contributing
 ------------
@@ -53,4 +53,4 @@ If you want to contribute to this project, feel free to submit a pull request or
 Credits
 -------
 
-This project was created by \[Noble Osinachi\]. Special thanks to \[David & Joan\] for their contributions to the project.
+This project was created by [Noble Osinachi](https://github.com/NobleOsinachi). Special thanks to [David](https://github.com/VidarDoes) & [Joan](https://github.com/Unyii) for their contributions to the project.
